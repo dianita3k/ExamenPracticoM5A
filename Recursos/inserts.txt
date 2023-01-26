@@ -1,3 +1,5 @@
 INSERT INTO `asignatura`( `apellido`, `nombre`, `telefono`,`direccion`, `fecha_nacimiento`, `observacion`, `dias_trabajo`, `sueldo`) VALUES ('Zhizhin','Diana','0988395340','Nulti','2023-01-26T17:41:51.975+00:00','No',9,40);
 INSERT INTO `asignatura`( `apellido`, `nombre`, `telefono`,`direccion`, `fecha_nacimiento`, `observacion`, `dias_trabajo`, `sueldo`) VALUES ('Villa','Ana','0988395340','Nulti','2023-01-26T17:41:51.975+00:00','Ninguna',21,400);
 INSERT INTO `asignatura`( `apellido`, `nombre`, `telefono`,`direccion`, `fecha_nacimiento`, `observacion`, `dias_trabajo`, `sueldo`) VALUES ('Zhizhin','Camila','0988395340','Nulti','2023-01-26T17:41:51.975+00:00','Si',22,200);
+
+https://drive.google.com/drive/folders/1jqnnRUsNRmyed_a6SdbpKZNx81_XpMNn?usp=sharing
